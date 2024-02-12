@@ -1,0 +1,631 @@
+ABEER JAVED SYED Computer Engineering Lecturer MS
+ADNAN ZAHOOR Computer Engineering Assistant Professor MS
+AISHA AJMAL Computer Engineering Lecturer MS
+ALI YOUSUF KHAN Computer Engineering Assistant Professor M.E
+ANEETA ARSHAD Computer Engineering Lecturer MS
+BASHARAH BATOOL Computer Engineering Assistant Professor MS
+DANISH JAMIL Computer Engineering Lecturer MSc
+DUR-E-SHAWAR AGHA Computer Engineering Lecturer MS
+FARAH AHMED Computer Engineering Lecturer MSIT
+FARHEEN QAZI Computer Engineering Lecturer MSc
+HASSAN ZAKI Computer Engineering Assistant Professor MS
+HUMA HASAN RIZVI Computer Engineering Assistant Professor MS
+IBRAHIM MUHAMMAD HUSSAIN Computer Engineering Assistant Professor MS
+JAHANGIR AHSAN Computer Engineering Assistant Professor MS
+JAHANZEB KHAN Computer Engineering Lecturer MS
+JAWAID SHABIR Computer Engineering Assistant Professor M.E
+KASHIF HABIB SHEIKH Computer Engineering Assistant Professor MS
+KHALID MAHBOOB Computer Engineering Lecturer MS
+KHALIQ AHMED Computer Engineering Assistant Professor M.E
+KIRAN HIDAYAT Computer Engineering Lecturer MS
+M. ASIM HASAN Computer Engineering Assistant Professor MS
+M. IMRAN SALEEM Computer Engineering Assistant Professor MS
+M. MAQSOOD JAN MUHAMMAD Computer Engineering Assistant Professor MS
+M. NAJEEB USMANI Computer Engineering Lecturer MS
+M. NAUMAN ALI KHAN- II Computer Engineering Assistant Professor M.E
+M. NOMAN ALI KHAN Computer Engineering Assistant Professor MS
+M.NAJMUL ISLAM FAROOQUI Computer Engineering Assistant Professor MS
+M.ZEESHAN AHMED KARIM Computer Engineering Assistant Professor MS
+MAHJABEEN TAHIR Computer Engineering Assistant Professor MS
+MAHWISH IRFAN Computer Engineering Lecturer MS
+MASOOD HUSSAIN Computer Engineering Assistant Professor MS
+MEHWISH ARSALAN LODHI Computer Engineering Lecturer MS
+MOONA KANWAL Computer Engineering Assistant Professor ME
+MUHAMMAD KAMRAN KHAN Computer Engineering Assistant Professor MS
+MUHAMMAD KASHIF SHAIKH Computer Engineering Assistant Professor MS
+MUHAMMAD KHURRAM Computer Engineering Assistant Professor MS
+MUHAMMAD NASEEM Computer Engineering Assistant Professor MS
+MUHAMMAD REHAN RASHEED Computer Engineering Assistant Professor MS
+MUHAMMAD TAHIR Computer Engineering Associate Professor PhD
+MUMTAZUL IMAM Computer Engineering Professor PhD
+MUZAMMIL AHMED KHAN Computer Engineering Assistant Professor MS
+NAJMA ISMAT Computer Engineering Assistant Professor MS
+OSAMA AHMED SIDDIQUI Computer Engineering Assistant Professor MS
+PRIHA BHATTI Computer Engineering Lecturer MS
+QURRAT-UL-AIN NAIYAR Computer Engineering Lecturer MS
+RABIA NOOR ENAM Computer Engineering Associate Professor PhD
+RABIA SIDDIQUI Computer Engineering Lecturer MS
+REHAN INAM QURESHI Computer Engineering Associate Professor PhD
+ROOHI AHMED SIDDIQUI Computer Engineering Assistant Professor MS
+RUKAIYA JAVAID Computer Engineering Lecturer MS
+SABA AHSAN Computer Engineering Assistant Professor MS
+SADIA IQBAL Computer Engineering Lecturer BE
+SAFINA SOOMRO Computer Engineering Lecturer MS
+SALMAN MAHMOOD Computer Engineering Lecturer MSc
+SAMIA AIJAZ Computer Engineering Assistant Professor M.E
+SANA ALAM Computer Engineering Lecturer M.E
+SANIAH REHAN Computer Engineering Lecturer MS
+SANOBER SOOMRO Computer Engineering Lecturer MS
+SAQIB HUSSAIN SIDDIQUI Computer Engineering Assistant Professor MBA
+SARFARAZ ABDUL SATTAR Computer Engineering Assistant Professor MS
+SARWAT FAWWAD Computer Engineering Lecturer MS
+SHAHEENA NOOR Computer Engineering Assistant Professor M.E
+SHAKIL AHMED Computer Engineering Associate Professor/Chairman PhD
+SHAMA BANO Computer Engineering Lecturer MS
+SHARIQ-UZ-ZAMAN DURRANI Computer Engineering Assistant Professor MS
+SHOAIB ALAM Computer Engineering Lecturer M.E
+SUMREENA BANO Computer Engineering Lecturer M.E
+SYED ATIR IFTIKHAR Computer Engineering Lecturer MS
+SYED HARIS MEHBOOB Computer Engineering Assistant Professor MS
+SYED HASSAN RAZA NAQVI Computer Engineering Associate Professor PhD
+SYED MUSLIM JAMEEL Computer Engineering Lecturer M.E
+SYED RIZWAN-UL-HASAN Computer Engineering Assistant Professor MS
+SYED SAJJAD IMAM ZAIDI Computer Engineering Lecturer MS
+SYED SAOOD ZIA Computer Engineering Assistant Professor PhD
+SYED UMAIR NAQVI Computer Engineering Lecturer BS
+SYED ZAIN ALI SHAH Computer Engineering Assistant Professor M.E
+SYEDA MEHWISH ZEHRA Computer Engineering Lecturer MS
+TAUSEFF MUBEEN Computer Engineering Assistant Professor MS
+UMM-E-LAILA Computer Engineering Assistant Professor MS
+ZAINAB ZAKIR Computer Engineering Lecturer MS
+ZULFIQAR ALI KHAN Computer Engineering Assistant Professor MS
+ Naveed Ahmad Khan Jhamat Computer Science Assistant Professor MSc
+Aamir Hussain Computer Science Assistant Professor MS
+Aamir Saeed Computer Science Assistant Professor PhD
+Abdul Haseeb Malik Computer Science Assistant Professor PhD
+Abdul Jaleel Computer Science Assistant Professor MS
+Abdul Kabeer Kazi Computer Science Associate Professor PhD
+Abdull Basit Siddiqui Computer Science Assistant Professor nan
+Abdur Rehman Computer Science Assistant Professor PhD
+Abdus Salam Computer Science Professor/HoD PhD
+Abid Jamil Computer Science Lecturer nan
+Adeel Ahmed Computer Science Lecturer nan
+Adeel Ahmed Computer Science Lecturer nan
+Adeel Aslam Computer Science Lecturer nan
+Aden Iqbal Computer Science Lecturer MS
+Adnan Baig Computer Science Jr.Lecturer nan
+Ahmad Nawaz Computer Science Assistant Professor MSc
+Ahmad Waqas Computer Science Associate Professor PhD
+Ahsan Akhtar Computer Science Lecturer nan
+Aisha Javed Computer Science Lecturer MS
+Ambreen Shahnaz Computer Science Assistant Professor PhD
+Amir Taj Computer Science Lecturer MS
+Ammar Rafiq Computer Science Head of Department MS
+Ammarah Javed Computer Science Associate Professor nan
+Amna Wajid Computer Science Lecturer MS
+Amna Yasin Computer Science Lecturer MS
+Anbreen Kausar Computer Science Lecturer nan
+Aneela Abbas Computer Science Lecturer nan
+Aneela Nargis  Computer Science Senior Lecturer MS
+Anum Ejaz Computer Science Lecturer MS
+Arslan Tariq Computer Science Lecturer nan
+Asif Raza Zaidi Computer Science Lecturer MS
+Asim Jalal Computer Science Assistant Professor PhD
+Asim Zeb Computer Science Assistant Professor PhD
+Asima Jamil Computer Science Lecturer nan
+Asma Fardoos Computer Science Lecturer MS
+Asma Sajid Computer Science Lecturer MS
+Atif Ishtiaq Computer Science Chairman nan
+Awais Bilal Computer Science Lecturer MS
+Ayesha Altaf Computer Science Lecturer nan
+Ayesha Rashid Computer Science Associate Professor MS
+Aysha Ayub Computer Science Lecturer MS
+Azhar Mushtaq Computer Science Assistant Professor/In Charge nan
+Azhar Rauf Computer Science Professor PhD
+Aziz Ur Rehman Computer Science Lecturer nan
+Babur Hayat Computer Science Assistant Professor nan
+Bashir Ahmad Computer Science Professor PhD
+Bilal Hayat Computer Science Assistant Professor MS
+Chahat Mahsood Computer Science Lecturer nan
+Daud Khan Computer Science Lecturer nan
+Dilawar Khan Computer Science Lecturer MS
+Dildar Hussain Computer Science Assistant Professor M.Phil
+Dr. Adnan Nadeem Computer Science Assistant Professor nan
+Dr. Arzoo Ateeq Computer Science Assistant Professor nan
+Dr. Farhan Shafiq Computer Science Assistant Professor nan
+Dr. Kamran Ahsan Computer Science Assistant Professor nan
+Dr. Muhammad Sarim Computer Science Assistant Professor nan
+Dr. Syed Akhter Raza Computer Science Assistant Professor nan
+Ehtisham Rashid Computer Science Lecturer MS
+Fahad Javed Computer Science Assistant Professor PhD
+Fahad Masood Computer Science Assistant Professor MS
+Faheem Ahmed Khalid Computer Science Assistant Professor nan
+Fahim Shehzad Computer Science Lecturer nan
+Faisal Naeem Computer Science Lecturer MS
+Faiza Ayub Syed Computer Science Lecturer MS
+Faiza Ejaz Computer Science Lecturer MSc
+Faiza Gohar Computer Science Lecturer nan
+Fakhar-ul-Islam Computer Science Professor/Dean MSc
+Fakhra Nazir Computer Science Lecturer MS
+Farooq Bilal Computer Science Lecturer M.Phil
+Fatima Tuz Zuhra Computer Science Assistant Professor MS
+Fazal-E-Basit Computer Science Assistant Professor MS
+Fazal-i-Haq Computer Science Professor/Chairman PhD
+Fiaz Waheed Computer Science Lab Engineer BS
+Fouzia Idrees Computer Science Lecturer nan
+Fouzia Jabeen Computer Science Lecturer nan
+GHUFRAN ULLAH Computer Science Assistant Professor PhD
+Ghassan Husnain Computer Science Lecturer nan
+Ghulam Ali Computer Science Lecturer nan
+Ghulam Murtaza Memon Computer Science Assistant Professor MS
+Ghulam Mustafa Computer Science Assistant Professor PhD
+Ghulam Siddiq Computer Science Lecturer nan
+Gul-e-Saman Computer Science Assistant Professor/Coordinator PhD
+Hafeez ur Rehman Computer Science Assistant Professor PhD
+Hafiz Muhammad Imran Computer Science Lecturer nan
+Hafiz Usman Zia Computer Science Assistant Professor nan
+Hafiza Basserat Fatima Computer Science Lecturer MS
+Hafiza Maimoona Shahid Computer Science Lecturer nan
+Haseeb Ahmad Computer Science Assistant Professor PhD
+Hifazat Ali Shah Computer Science Lecturer nan
+Huma Javed Computer Science Assistant Professor PhD
+Ibrar Ahmad Computer Science Assistant Professor MS
+Iftikhar Ahmad Computer Science Assistant Professor PhD
+Iftikhar ud Din Computer Science Assistant Professor M.Phil
+Ijaz Ali Shoukat Computer Science Assistant Professor PhD
+Ikram Ullah Computer Science Assistant Professor PhD
+Imran Faizi Computer Science Lecturer M.Phil
+Imran Rasheed Computer Science Lecturer MS
+Imran Shafique Computer Science Lecturer MSc
+Imran Ullah Computer Science Lecturer M.Phil
+Iqra Tariq Computer Science Lecturer nan
+Ismat Ullah Khan Computer Science Assistant Professor MSc
+Izhar Ullah Computer Science Assistant Professor nan
+Jamal Uddin Computer Science Lecturer nan
+Jamal-Ud-Din Computer Science Assistant Professor PhD
+Javed Ahmed Shahani  Computer Science Assistant Professor PhD
+Javed Ali Abbasi Computer Science Lecturer B.E
+Javed Anjum Sheikh Computer Science Assistant Professor nan
+Javed Iqbal Computer Science Assistant Professor MS
+Javed Iqbal Bangash Computer Science Assistant Professor PhD
+Jawaid Ahmed Siddiqui  Computer Science Assistant Professor MS
+Jawwad Ibrahim Computer Science Assistant Professor nan
+KASHIF BASIR Computer Science Lecturer MS
+Kaleem Nawaz Khan Computer Science Instructor BS
+Kamran Ghani Computer Science Assistant Professor PhD
+Kareem Akhtar Computer Science Coordinator PhD
+Kashif Riaz Computer Science Lecturer MS
+Khalid Javed Computer Science Network Sub-Engineer nan
+Khalid Mehmood Aamir Computer Science Assistant Professor/In Charge PhD
+Laeeq Ahmed Computer Science Assistant Professor nan
+Latif Jan Computer Science Lecturer nan
+M. Ajmal Sawand Computer Science Assistant Professor PhD
+M. Asghar Nadeem Computer Science Assistant Professor nan
+M. Imran Khan Khalil Computer Science Lecturer MS
+M. Owais Mahmudi Computer Science Assistant Professor PhD
+M. Ramzan Talib Computer Science Chairperson nan
+M. Taimoor Khan Computer Science Assistant Professor MS
+M. Tehseen Khan Computer Science Assistant Professor MS
+M. Waqas Manzoor Computer Science Assistant Professor nan
+MUHAMMAD ABDUL TAWAB KHALIL Computer Science Lecturer MCS
+MUHAMMAD ARIF Computer Science Lecturer MS
+MUHAMMAD ARIF SHAH Computer Science Lecturer MS
+MUHAMMAD ARSHAD Computer Science Lecturer MS
+MUHAMMAD EHSAN Computer Science Lecturer MBA
+MUHAMMAD UMER HAROON Computer Science Lecturer BS
+MUHAMMAD YASEEN Computer Science Lecturer MS
+MUHAMMAD ZAHID Computer Science Departmental Assistant BA
+MUHAMMAD ZAKIR KHAN Computer Science Lecturer BCS
+MUHAMMAD ZUBAIR KHAN Computer Science Lecturer MS
+MUMTAZ ALI Computer Science Assistant Professor MS
+Mahrukh Computer Science Lecturer nan
+Majid Khan Computer Science Lecturer MS
+Maria Latif Computer Science Lecturer nan
+Mehdi Hassan Computer Science Assistant Professor PhD
+Mehmood ul Hassan Computer Science Assistant Professor nan
+Miss Paras Qadir Computer Science Lecturer MSc
+Mohsan Rehman Computer Science Teaching Fellow BS
+Mohsin Raza Computer Science Network Administrator nan
+Mr. Abdul Mooed Computer Science Lecturer BS
+Mr. Kashif Laeeq Computer Science Assistant Professor nan
+Mr. Kashif Rizwan Computer Science Lecturer nan
+Mr. Muhammad Khalid Sheikh Computer Science Assistant Professor nan
+Mr. Shaikh Kashif Riffat Computer Science Assistant Professor nan
+Mr.Muhammad Siddiq Computer Science Assistant Professor nan
+Ms. Asima Nisar Computer Science Assistant Professor nan
+Ms. Naheed Azeem Computer Science Assistant Professor nan
+Ms. Shazia Usmani Computer Science Assistant Professor nan
+Ms. Uzma Afzal Computer Science Assistant Professor nan
+Mubashara Sheikh Computer Science Jr.Lecturer nan
+Mubashir Ali Computer Science Assistant Professor nan
+Mubbashar Hussain Computer Science Assistant Professor MS
+Mubeen Aslam Computer Science Assistant Professor MSCS
+Mubeen Zafar Computer Science Lecturer nan
+Mudassar Ahmad Computer Science Assistant Professor PhD
+Mudassar Ahmed Computer Science Assistant Professor PhD
+Mudassar Ali Computer Science Lecturer nan
+Mudassar Ali Zaidi Computer Science Lecturer nan
+Muhammad Computer Science Lecturer MSIT
+Muhammad Aadil Butt Computer Science Lecturer nan
+Muhammad Aater Javed Computer Science Lab Engineer MS
+Muhammad Abdul Tawab Computer Science Lecturer nan
+Muhammad Abid Computer Science Professor PhD
+Muhammad Abo Bakar Aslam Computer Science Lecturer MS
+Muhammad Abu Bakar Computer Science Lecturer nan
+Muhammad Adeel Computer Science Lecturer MSCS
+Muhammad Adeel Zahid Computer Science Lecturer nan
+Muhammad Adil Computer Science Assistant Professor nan
+Muhammad Amin Computer Science Assistant Professor MS
+Muhammad Amin Computer Science Assistant Professor nan
+Muhammad Amir Computer Science Lecturer MS
+Muhammad Arif Computer Science Lecturer nan
+Muhammad Arshad Computer Science Assistant Professor PhD
+Muhammad Asif Computer Science Assistant Professor PhD
+Muhammad Asif Habib Computer Science Assistant Professor PhD
+Muhammad Asim Mubarik Computer Science Assistant Professor MS
+Muhammad Ayzed Mirza Computer Science Lecturer MSCS
+Muhammad Bilal Ahmad Janjooa Computer Science Lecturer nan
+Muhammad Haris Shams Computer Science Lecturer MS
+Muhammad Haseeb Computer Science Assistant Professor PhD
+Muhammad Hussain Mughal Computer Science Assistant Professor MS
+Muhammad Ikram-ul-Haq Computer Science Assistant Professor nan
+Muhammad Imran Computer Science Assistant Professor nan
+Muhammad Inayat Ullah Computer Science Lecturer MS
+Muhammad Irfan Khan Computer Science Lecturer MS
+Muhammad Irshad Nazeer Computer Science Assistant Professor MS
+Muhammad Ismail Mangrio Computer Science Assistant Professor MS
+Muhammad Jabbar Computer Science Lecturer nan
+Muhammad Janas Khan Computer Science Lecturer MS
+Muhammad Junaid Malik Computer Science Assistant Professor MS
+Muhammad Kashif Hanif Computer Science Assistant Professor PhD
+Muhammad Mobeen Movania  Computer Science Assistant Professor/HoD  PhD
+Muhammad Naeem Computer Science Assistant Professor PhD
+Muhammad Nauman Computer Science Associate Professor PhD
+Muhammad Raheel Zafar Computer Science Lecturer MSCS
+Muhammad Saad Bin Ilyas Computer Science Assistant Professor nan
+Muhammad Sadeequllah Computer Science Lecturer MS
+Muhammad Sajid Rehman Computer Science Assistant Professor nan
+Muhammad Sami Ullah Computer Science Lecturer nan
+Muhammad Shahid Computer Science Lecturer MSSE
+Muhammad Shahzad Sarfraz Computer Science Associate Professor/HoD PhD
+Muhammad Shakeel Computer Science Assistant Professor MSc
+Muhammad Sheraz Arshad Computer Science Assistant Professor/Principal PhD
+Muhammad Sohail Computer Science Lecturer nan
+Muhammad Suhail Computer Science Lecturer M.Phil
+Muhammad Suhail Computer Science Assistant Professor nan
+Muhammad Tasaddaq Latif Computer Science Lecturer nan
+Muhammad Usman Computer Science Lecturer MS
+Muhammad Usman Computer Science Lecturer nan
+Muhammad Usman Ali Computer Science Assistant Professor nan
+Muhammad Waleed Computer Science Assistant Professor MS
+Muhammad Waqas Computer Science Assistant Professor MS
+Muhammad Yasir Computer Science Lecturer MS
+Muhammad Younas Computer Science Assistant Professor/Incharge Department MCS
+Muhammad Younas Computer Science Lecturer nan
+Muhammad Yousaf Computer Science Instructor BS
+Muhammad Ziad Nayyar Computer Science Assistant Professor MS
+NAUREEN AKRAM Computer Science Lecturer MS
+Nabgha Hashmi Computer Science Associate Professor nan
+Nadeem Faisal Computer Science Lecturer PhD
+Nadeem Qaiser Mehmood Computer Science Assistant Professor nan
+Nadia Yousf Computer Science Lecturer MS
+Nafees Ayub Computer Science Lecturer MS
+Nahdia Majeed Computer Science Assistant Professor MBA
+Naila Shahzada  Computer Science Assistant Professor MS
+Najam Farooq Computer Science Lab Engineer BSc
+Najeeb-Ur-Rehman Computer Science Assistant Professor MS
+Najma Iqbal Computer Science Lecturer nan
+Nasir Mahmood Computer Science Lecturer MSc
+Nasreen Anjum Computer Science Lecturer nan
+Natasha Nigar Computer Science Assistant Professor MS
+Nauman Riaz Computer Science Assistant Professor nan
+Naveed Ahmad Computer Science Assistant Professor PhD
+Naveed Anwar Butt Computer Science Assistant Professor nan
+Navid Jamil Malik  Computer Science Assistant Professor/Director PhD
+Nazish Yaqoob Computer Science Lecturer nan
+Neelam Gohar Computer Science Assistant Professor PhD
+Nisar Ahmed Siddiqui Computer Science Lecturer nan
+Nizamud Din Computer Science Assistant Professor nan
+Noman Sohaib Qureshi Computer Science Assistant Professor MS
+Noor Mohammad Computer Science Professor/HoD PhD
+Noreen Akbar Computer Science Lecturer nan
+Nosheen Fayyaz Computer Science Lecturer MS
+Nouman Azam Computer Science Associate Professor PhD
+Numan Sheikh Computer Science Assistant Professor MS
+Omar Usman Khan Computer Science Associate Professor/HoD PhD
+Omer Rauf Computer Science Lecturer nan
+QAZI HASEEB YOUSAF Computer Science Lecturer BCS
+Qamar Ud Din Computer Science Jr.Lecturer nan
+Qazi Ejaz Ali Computer Science Assistant Professor MS
+RASHID NASEEM Computer Science Assistant Professor/HoD  PhD
+Raazia Sosan  Computer Science Senior Lecturer MS
+Ramsha Computer Science Lecturer nan
+Rana Abdul Rehman Computer Science Lecturer nan
+Rao Mahtab Mahboob Computer Science Lecturer MS
+Rao Sohail Iqbal Asif Computer Science Lecturer MS
+Rasool Bukhsh Computer Science Lecturer MS
+Rauf A. S. Malick  Computer Science Assistant Professor PhD
+Refat Ullah Computer Science Lecturer nan
+Rehan Ashraf Computer Science Assistant Professor PhD
+Rehman Ali Computer Science Lecturer nan
+Riaz Ali Soomro Computer Science Lecturer B.E
+Rizwan Ghani Computer Science Lecturer nan
+SANAULLAH KHAN Computer Science Lecturer BCS
+SHAMS FAROOQ Computer Science Assistant Professor MS
+SHEHZAD SAIFULLAH Computer Science Lecturer MS
+Sadeeq Jan Computer Science Assistant Professor nan
+Sadiq-ur-Rehman Computer Science Lecturer MS
+Saeed Mahfooz Computer Science Professor PhD
+Safdar Ali soomro . Computer Science Lecturer MSc
+Saif Ullah Jan Computer Science Lecturer nan
+Saif ur Rehman Computer Science Lecturer MS
+Saira Ihsan Computer Science Lecturer nan
+Saira Mehmood Computer Science Lecturer nan
+Sajeela Yaqoob Computer Science Lecturer M.Phil
+Saleem Afzal Computer Science Lecturer BS
+Saliha Zahoor Computer Science Assistant Professor MS
+Salma Noor Computer Science Assistant Professor PhD
+Salman Naseer Computer Science Assistant Professor MS
+Saman Shakir Computer Science Lecturer nan
+Sami Ullah Computer Science Assistant Professor MS
+Samina Mushtaq Computer Science Lecturer nan
+Samina Zuhra Computer Science Lecturer M.Phil
+Samreen Razzaq Computer Science Lecturer nan
+Saqib Rasool Computer Science Lecturer nan
+Saqib Shahid Rahim Computer Science Lecturer MCS
+Sara Mumtaz Computer Science Lecturer nan
+Sara Shahzad Computer Science Associate Professor PhD
+Sarmad Soomro Computer Science Assistant Professor MS
+Seema Zubair Computer Science Lecturer MS
+Sh. Muhammad Aamir Computer Science Lecturer MS
+Shafaan Khaliq Computer Science Lecturer nan
+Shafqat Ali Computer Science Lecturer nan
+Shah Jamal Alam Computer Science Assistant Professor/Director PhD
+Shah Khusro Computer Science Professor/HoD PhD
+Shahab ul Islam Computer Science Lecturer nan
+Shahbaz Ahmad Sahi Computer Science Lecturer MSCS
+Shahbaz Ahmed Computer Science Assistant Professor MSCS
+Shahid Hussain Computer Science Assistant Professor PhD
+Shahid Islam Computer Science Assistant Professor/HoD  MS
+Shahid Khan Computer Science Assistant Professor/HoD  MCS
+Shahid Manzoor Computer Science Assistant Professor PhD
+Shahid Mehmood Computer Science Lecturer MSc
+Shahryar Khan Afridi Computer Science Lecturer nan
+Shakir Ullah Computer Science Assistant Professor MS
+Shaukat Ali Computer Science Lecturer MS
+Sheema Khattak Computer Science Lecturer nan
+Shehla Ali Computer Science Lecturer MS
+Shehzad Aslam Computer Science Lecturer MS
+Shehzad Khan Computer Science Lecturer nan
+Shiraz Ahmad Computer Science Lecturer MS
+Shoaib Muhammad Computer Science Assistant Professor MS
+Sohail Ahmed Computer Science Lecturer nan
+Sohail Jabbar Computer Science Assistant Professor PhD
+Sohail Masood Bhatti Computer Science Associate Professor/HoD nan
+Suhail Yousaf Computer Science Lecturer PhD
+Sumaira Johar Computer Science Lecturer nan
+Sumaira Shahid Computer Science Lecturer MSc
+Sumbal Iqbal Computer Science Lecturer nan
+Syed Adeel Ali Shah Computer Science Assistant Professor PhD
+Syed Adeel Ali Shah Computer Science Assistant Professor PhD
+Syed Aizaz Ul Haq Computer Science Lecturer MSc
+Syed Anwaar Hussain Computer Science Assistant Professor nan
+Syed Hammad Ahmed  Computer Science Assistant Professor MS
+Syed Hammad Hussain Shah Computer Science Lecturer nan
+Syed Irfan Ullah Computer Science Assistant Professor PhD
+Syed Mudassir Alam Computer Science Lecturer nan
+Syeda Mamoona Computer Science Examiniation Coordinator nan
+Syeda Saleha Raza Computer Science Assistant Professor PhD
+TAYYBA TARIQ Computer Science Lecturer MS
+Tabinda Salam Computer Science Lecturer nan
+Tahir Abdullah Computer Science Lecturer MS
+Tahir Farooq Computer Science Lecturer BS
+Taj Muhammad Khan Computer Science Assistant Professor PhD
+Tallataf Rasheed Computer Science Lecturer MS
+Tanveer Younis Computer Science Lab Engineer BS
+Tayybah Kiren Computer Science Assistant Professor MS
+Tehniat Mirza  Computer Science Senior Lecturer MS
+Toqeer Ehsan Computer Science Lecturer nan
+Tufail Muhammad Computer Science Lecturer MS
+Twaha Ahmed Minai  Computer Science Assistant Professor Mphil
+UMAR FAROOQ KHATTAK Computer Science Lecturer MS
+Umair Azfar Khan Computer Science Assistant Professor PhD
+Umar Shoaib Computer Science Assistant Professor nan
+Umer Ali Khan Computer Science Lecturer MSSE
+Umer Farooq Computer Science Lecturer nan
+Usman Ahmad Awan Computer Science Assistant Professor/HoD  MCS
+Usman Ahmed Computer Science Lecturer MS
+Usman Ahmed Computer Science Lecturer MSc
+Usman Habib Computer Science Assistant Professor PhD
+Uzair Saeed Computer Science Assistant Professor MS
+Uzma Jamil Computer Science Lecturer PhD
+Waheed ur Rehman Computer Science Assistant Professor PhD
+Wajeeha Khalil Computer Science Chairperson PhD
+Wajid Ullah Computer Science Lecturer MS
+Waqar Ahmad Computer Science Assistant Professor/Chairman MSCS
+Waqar Saleem Computer Science Assistant Professor PhD
+Waqas Ahmed Computer Science Lab Incharge nan
+Waqas Ali Computer Science Instructor MSc
+Waqas Haider Khan Bangyal Computer Science Assistant Professor nan
+Yastoor Ul Haq Computer Science Teaching Assistant MSc
+Yousaf Hayat Computer Science Professor PostDoc
+ZAFAR IQBAL Computer Science Assistant Professor MS
+Zafar Mahmood Computer Science Associate Professor PhD
+Zafar Mehmood Computer Science Assistant Professor MS
+Zaheer Abbas Computer Science Lecturer MS
+Zaheer Ahmed Computer Science Lecturer MS
+Zahid Iqbal Computer Science Lecturer MS
+Zahid Saleem Computer Science Dean PhD
+Zakira Inayat Computer Science Lecturer nan
+Zeeshan Arshad Computer Science Lecturer MS
+Zeyad Amin Computer Science Assistant Professor/HoD  MS
+Zohaib Latif Computer Science Assistant Professor MS
+Zubair uddin Shaikh  Computer Science Lecturer BS
+Zulfiqar Ahmad Computer Science Assistant Professor M.Phil
+ Hironao Takahashi  Computer Science Associate Professor PhD
+ Muzammil-ul-Rehman Computer Science & IT Lecturer BSCS
+Afsah Imtiaz Elahi Computer Science & IT Assistant Professor MS
+Aisha Hina Mughal Computer Science & IT Lecturer BSCS
+Ali Nawaz Shah Computer Science & IT Lecturer MSc
+Ali Samad Tauni Computer Science & IT Lecturer MSc
+Asia Ramzan Computer Science & IT Lecturer MCS
+Dost Muhammad Khan Computer Science & IT Assistant Professor PhD
+Faisal Shahzad  Computer Science & IT Lecturer MSc
+Hafiz Munsub Ali Computer Science & IT Lecturer MSCS
+Humera Arshad Computer Science & IT Lecturer MSc
+Imran Sarwar Bajwa Computer Science & IT Assistant Professor PhD
+Ishrat Hayat Malik Computer Science & IT Lecturer MSCS
+Malik Muhammad Saad Missen Computer Science & IT Assistant Professor PostDoc
+Mamoona Naveed Asghar Computer Science & IT Assistant Professor PhD
+Maria Gillani Computer Science & IT Lecturer MSc
+Ms. Afreen Fatima Computer Science & IT Lecturer BS
+Ms. Anum Hameed Computer Science & IT Lecturer BS
+Ms. Farheen Computer Science & IT Lecturer MS
+Ms. Farheen Mannan Computer Science & IT Lecturer MSSE
+Ms. Hafiza Anisa Ahmed Computer Science & IT Lecturer BS
+Ms. Iqra Khalil Computer Science & IT Lecturer MCS
+Ms. Javairia Computer Science & IT Lecturer BS
+Ms. Kanwal Zahoor Computer Science & IT Lecturer BS
+Ms. Narmeen Zakaria Bawany (Chairperson) Computer Science & IT Associate Professor ME
+Ms. Ramsha Ali Computer Science & IT Assistant Professor MS
+Ms. Saba Mazhar Computer Science & IT Assistant Professor MBA
+Ms. Sadia Javed Computer Science & IT Assistant Professor ME
+Ms. Saima Amber Computer Science & IT Assistant Professor MS
+Ms. Samia Ghazala Computer Science & IT Assistant Professor ME
+Ms. Sumaira Ahmed Computer Science & IT Lecturer BS
+Ms. Syeda Anum Zamir Computer Science & IT Lecturer MSc
+Ms. Syeda Yousra Rizvi Computer Science & IT Lecturer BE
+Ms. Tehreem Hussain Computer Science & IT Lecturer BS
+Ms. Tehreem Qamar Computer Science & IT Lecturer BS
+Ms. Ummay Faseeha Computer Science & IT Assistant Professor ME
+Muhammad Ateeq Computer Science & IT Assistant Professor MSCS
+Muhammad Moosa Computer Science & IT Lecturer BSCS
+Muhammad Munawar Ahmed Computer Science & IT Lecturer MSc
+Muhammad Omar Computer Science & IT Lecturer MSCS
+Muhammad Zeeshan Afzal Computer Science & IT Lecturer MSc
+Muhammad Zeeshan Jhandir Computer Science & IT Lecturer MSc
+Muhammmad Suleman Computer Science & IT Lecturer MCS
+Mujtaba Husnain Computer Science & IT Assistant Professor MSCS
+Nadeem Akhtar Computer Science & IT Assistant Professor PhD
+Najia Saher Computer Science & IT Assistant Professor MS
+Nazir Ahmad Computer Science & IT Assistant Professor MSCS
+Omer Ajmal Computer Science & IT Lecturer BSCS
+Prof. Dr. Abu Turrab Alam Computer Science & IT Professor Ph.D
+Prof. Dr. Muhammad Shahab Siddiqui Computer Science & IT Professor Ph.D
+Saima Abdullah Computer Science & IT Assistant Professor PhD
+Salman Qadri Computer Science & IT Assistant Professor MSCS
+Shahzad Ali Computer Science & IT Assistant Professor PhD
+Shahzad Mumtaz Computer Science & IT Lecturer PhD
+Shahzada Khurram Computer Science & IT Assistant Professor MSCS
+Syed Rafaqut Hussain Kazmi Computer Science & IT Lecturer MSc
+Tareef Ali Khan Computer Science & IT Assistant Professor MSc
+Tenvir Ali Computer Science & IT Lecturer MCS
+Waheed Anwer Computer Science & IT Lecturer MCS
+Waqar Aslam Computer Science & IT Assistant Professor PhD
+Zaman Ali Computer Science & IT Lecturer MCS
+ Ms. Humaira Meraj Computer Science & IT Lecturer MS
+ Ms. Kainat Computer Science & IT Lecturer BS
+Ahmed Mateen Computer Science and Engineering Lecturer nan
+Ahsan Latif Computer Science and Engineering Assistant Professor PhD
+Ahsan Raza Sattar Computer Science and Engineering Assistant Professor nan
+Akmal Rehan Computer Science and Engineering Lecturer nan
+Dr. Ahmar Rashid Computer Science and Engineering Associate Professor PhD
+Dr. Asif Khan Computer Science and Engineering Assistant Professor PhD
+Dr. Fawad Hussain Computer Science and Engineering Associate Professor PhD
+Dr. Ghulam Abbas Computer Science and Engineering Associate Professor PhD
+Dr. Khalid J Siddiqui Computer Science and Engineering Professor/Dean PhD
+Dr. Masroor Hussain Computer Science and Engineering Associate Professor PhD
+Dr. Rashad M Jillani Computer Science and Engineering Assistant Professor PhD
+Dr. Sajid Anwar Computer Science and Engineering Assistant Professor PhD
+Dr. Shahabuddin Ansari Computer Science and Engineering Assistant Professor PhD
+Dr. Zahid Halim Computer Science and Engineering Associate Professor PhD
+Fahad Jan Computer Science and Engineering Lecturer nan
+Hassan Tariq Computer Science and Engineering Lecturer MS
+Imran Mumtaz Computer Science and Engineering Assistant Professor nan
+Kareem Ullah Computer Science and Engineering Lecturer nan
+Muhammad Azam Zia Computer Science and Engineering Lecturer nan
+Nayyar Iqbal Computer Science and Engineering Lecturer nan
+Qamar Nawaz Computer Science and Engineering Lecturer MSCS
+Raheela Nasim Computer Science and Engineering Lecturer nan
+Salman Afsar Awan Computer Science and Engineering Lecturer nan
+Saqib Ali Computer Science and Engineering Assistant Professor PhD
+Tasleem Mustafa Computer Science and Engineering Assistant Professor/Chairman nan
+Hafiz Gulfam Ahmad Umar Computer Science and Information Technology Lecturer nan
+Muhammad Gulzar Computer Science and Information Technology Lecturer nan
+Muhammad Jasim Shah Computer Science and Information Technology Lecturer nan
+Muhammad Yasir Bhutta Computer Science and Information Technology Head of Department nan
+Zaib-ul-Nisa Khosa Computer Science and Information Technology Lecturer nan
+Abdul Hafeez Adam Computing & Information Sciences Lecturer BS
+Abdul Wahab Khan Computing & Information Sciences Assistant Professor MS
+Adnan Ullah Khan Computing & Information Sciences Lecturer MS
+Amanullah Khan Computing & Information Sciences Lecturer BS
+Fawad Qureshi Computing & Information Sciences Assistant Professor BS
+Fizza Computing & Information Sciences Permanent Faculty MS
+Hasan Sardar Computing & Information Sciences Faculty Member BS
+Hira Anwar Khan Computing & Information Sciences Lecturer MS
+Hira Beenish Computing & Information Sciences Lecturer MSTN
+Ibraheem Hassan Computing & Information Sciences Lecturer BS
+Kashif Bashir Computing & Information Sciences Assistant Professor MS
+Khurrum Nazeer Junejo Computing & Information Sciences Assistant Professor PhD
+M Qasim Ashraf Computing & Information Sciences Lecturer BS
+Maaz Bin Ahmad Computing & Information Sciences Assistant Professor PhD
+Mohammad Ayub Latif Computing & Information Sciences Faculty Member MS
+Muhammad Affan Aleem Computing & Information Sciences Assistant Professor MS
+Muhammad Azam Khan Computing & Information Sciences Permanent Faculty MSC
+Muhammad Khalid Khan Computing & Information Sciences Director PhD
+Muhammad Naveed Computing & Information Sciences Assistant Professor MS
+Muhammad Suleman Computing & Information Sciences Assistant Professor MS
+Muhammad Taha Jilani Computing & Information Sciences Assistant Professor PhD
+Muhammad Zafer Iqbal Siddiqui Computing & Information Sciences Faculty Member MS
+Muhammad Zubair Computing & Information Sciences Lecturer BS
+Nadeem Qamar Computing & Information Sciences Assistant Professor MS
+Rafi Ullah Computing & Information Sciences Lecturer BS
+Rohit Hansrajani Computing & Information Sciences Lecturer BE
+Saad Rehman Shah Computing & Information Sciences Faculty Member MS
+Samrina Zameer Computing & Information Sciences Assistant Professor ME
+Sanjay Kumar Computing & Information Sciences Lecturer ME
+Shah Muhammad Emaduddin Computing & Information Sciences Assistant Professor MS
+Sohail Imran Computing & Information Sciences Permanent Faculty MS
+Solat Jabeen Sheikh Computing & Information Sciences Permanent Faculty MS
+Tariq Saeed Tanoli Computing & Information Sciences Permanent Faculty MS
+Urooj Waheed Computing & Information Sciences Assistant Professor MS
+Urwah Lodhi Computing & Information Sciences Lecturer MS
+Waqas Azam Computing & Information Sciences Assistant Professor MBA
+ Faisal Ahmed Computing & Information Sciences Lecturer M.Sc
+ Syed Nabeel Ali Computing & Information Sciences Lecturer MS
+Abdul Ghani Rajput ENGINEERING, SCIENCE & TECHNOLOGY Assistant Professor MS
+Ahmed Waliullah Kazi ENGINEERING, SCIENCE & TECHNOLOGY Associate Professor PhD
+Aijaz Chachar ENGINEERING, SCIENCE & TECHNOLOGY Lecturer BS
+Amber Baig ENGINEERING, SCIENCE & TECHNOLOGY Assistant Professor MSc
+Hameedullah Kazi ENGINEERING, SCIENCE & TECHNOLOGY Professor PhD
+Imtiaz Koondhar ENGINEERING, SCIENCE & TECHNOLOGY Lecturer BS
+Kamran Khowaja ENGINEERING, SCIENCE & TECHNOLOGY Assistant Professor PhD
+Mohammad Arshad Shaikh ENGINEERING, SCIENCE & TECHNOLOGY Assistant Professor MS
+Mohammad Rafique Abro ENGINEERING, SCIENCE & TECHNOLOGY Professor PhD
+Muhammad Ali Nizamani ENGINEERING, SCIENCE & TECHNOLOGY Assistant Professor PhD
+Muhammad Danish Khan ENGINEERING, SCIENCE & TECHNOLOGY Lecturer BS
+Mutee-u-Rahman ENGINEERING, SCIENCE & TECHNOLOGY Assistant Professor Mphil
+Quratul Ain Shah ENGINEERING, SCIENCE & TECHNOLOGY Lecturer BS
+Sehrish Niaz Abrejo ENGINEERING, SCIENCE & TECHNOLOGY Assistant Professor PhD
+Aamir Shaikh FACULTY OF COMPUTING & ENGINEERING Assistant Professor MSc
+Ahmer Umer FACULTY OF COMPUTING & ENGINEERING Assistant Professor MS
+Aqeel Tahir FACULTY OF COMPUTING & ENGINEERING Assistant Professor M.E
+Asim Imdad Wagan FACULTY OF COMPUTING & ENGINEERING Associate Professor PhD
+Asmat Ara FACULTY OF COMPUTING & ENGINEERING Assistant Professor PhD
+Fouzia Naz FACULTY OF COMPUTING & ENGINEERING Lecturer MS
+Ghulam Mujtaba FACULTY OF COMPUTING & ENGINEERING Lecturer MS
+Hafiz Muhammad Sohaib Azhar FACULTY OF COMPUTING & ENGINEERING Lecturer M.E
+Haji Khan Soomro FACULTY OF COMPUTING & ENGINEERING Professor PhD
+Kashif Ishaque FACULTY OF COMPUTING & ENGINEERING Associate Professor PhD
+Khalid Mahmood Dar FACULTY OF COMPUTING & ENGINEERING Assistant Professor PhD
+Khaliq-ur-Rahman Raazi FACULTY OF COMPUTING & ENGINEERING Associate Professor/HoD PhD
+Moomal Turk FACULTY OF COMPUTING & ENGINEERING Lecturer M.E
+Muhammad Kashif Khan FACULTY OF COMPUTING & ENGINEERING Assistant Professor MS
+Muhammad Yaseen Khan FACULTY OF COMPUTING & ENGINEERING Senior Lecturer MS
+Nazish Nouman FACULTY OF COMPUTING & ENGINEERING Assistant Professor MS
+Roshan A. Shaikh FACULTY OF COMPUTING & ENGINEERING Professor/Dean Doctor of Professional Studies
+Shaukat Wasi FACULTY OF COMPUTING & ENGINEERING Associate Professor/HoD PhD
+Syed Asad Hussain FACULTY OF COMPUTING & ENGINEERING Assistant Professor PhD
+Syed Imran Ali FACULTY OF COMPUTING & ENGINEERING Lecturer MS
+Syed Qutubuddin Ahmed FACULTY OF COMPUTING & ENGINEERING Assistant Professor PhD
+Waheed Uddin Hyder FACULTY OF COMPUTING & ENGINEERING Assistant Professor PhD
